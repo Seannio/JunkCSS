@@ -1,0 +1,9 @@
+
+/* Style.css, like usual, is used to overwrite aspects of standard.css for 
+the purpose of customization beyond the constraints of the standard.css framework.
+Here, it's pretty barebones, mostly for the sake of the demonstration. */
+
+.head {
+    text-align: center;
+    color: #292F36;
+}
